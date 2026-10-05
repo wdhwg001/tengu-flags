@@ -27,6 +27,8 @@
       }
     ],
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.286",
       "previousRung": null,
@@ -63,6 +65,8 @@
       }
     ],
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.286",
       "previousRung": null,
@@ -91,6 +95,8 @@
     "cacheReach": "none",
     "override": null,
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.286",
       "previousRung": null,
@@ -119,6 +125,8 @@
     "cacheReach": "full",
     "override": null,
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.286",
       "previousRung": null,

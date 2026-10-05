@@ -27,6 +27,8 @@
       }
     ],
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.286",
       "previousRung": null,
@@ -63,6 +65,8 @@
       }
     ],
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.286",
       "previousRung": null,
@@ -91,6 +95,8 @@
     "cacheReach": "none",
     "override": null,
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.286",
       "previousRung": null,
@@ -125,9 +131,72 @@
       }
     ],
     "prerequisites": [],
+    "effects": [],
+    "values": null,
     "floor": {
       "build": "2.1.287",
       "previousRung": null,
+      "basis": "literal"
+    }
+  },
+  {
+    "slug": "sample-zeta",
+    "kind": "gate",
+    "name": "tengu_sample_zeta",
+    "what": "Sample gate that sets how the sample panel opens, for a cohort.",
+    "whatBasis": "read",
+    "provenance": [
+      {
+        "version": "2.1.287",
+        "offset": 2055
+      }
+    ],
+    "classes": [
+      "gate"
+    ],
+    "default": "none",
+    "valueSource": [
+      "growthbook"
+    ],
+    "cacheReach": "full",
+    "override": null,
+    "prerequisites": [],
+    "effects": [
+      {
+        "kind": "prompt",
+        "when": "on",
+        "where": "the tone section of the sample system prompt",
+        "text": "Keep every answer about the sample panel under three short paragraphs, and name the card you mean."
+      },
+      {
+        "kind": "ui",
+        "when": "on",
+        "where": "the status line under the input box",
+        "text": "Sample panel is on. Press Esc twice to close it."
+      },
+      {
+        "kind": "flow",
+        "when": "cohort",
+        "where": "opening the sample panel at the start of a session",
+        "summary": "In the cohort the panel asks the sample service for a layout before it opens, and opens in that layout.",
+        "mermaid": "flowchart TD\n  start[Session starts] --> ask[Ask the sample service for a layout]\n  ask --> open[Open the panel in that layout]"
+      },
+      {
+        "kind": "value",
+        "when": "cohort",
+        "name": "how many cards the sample panel shows at once",
+        "unit": "cards"
+      },
+      {
+        "kind": "telemetry",
+        "when": "off",
+        "summary": "Logs one sample-panel event per session saying the panel stayed closed."
+      }
+    ],
+    "values": "The served value picks forced, none or cohort, and only the cohort value reads the card count.",
+    "floor": {
+      "build": "2.1.287",
+      "previousRung": "2.1.286",
       "basis": "literal"
     }
   }

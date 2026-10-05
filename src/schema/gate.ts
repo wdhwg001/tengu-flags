@@ -1,5 +1,6 @@
 // A `gate` row: a tengu_* feature gate read through the GrowthBook reader (DESIGN, "Row schemas").
 import { z } from 'zod';
+import { gateEffect } from './effect.ts';
 import { commonFields, direction, floor, refineCommon, refineFloorIn, text } from './primitives.ts';
 
 export const gateOverride = z.strictObject({
@@ -45,6 +46,11 @@ const gateShape = z.strictObject({
   cacheReach: z.enum(['full', 'partial', 'none', 'direct']),
   override: z.array(gateOverride).min(1, 'is null when there is none, never an empty array').nullable(),
   prerequisites: z.array(prerequisite),
+  // An empty array is a row whose effect was not read. A row written before the two members existed parses as
+  // that empty array and a null `values`.
+  effects: z.array(gateEffect).default([]),
+  // How the served value, the model's own configuration and the override compose, when the gate is not a plain boolean.
+  values: text.nullable().default(null),
   floor,
 });
 export type GateRow = z.infer<typeof gateShape>;
