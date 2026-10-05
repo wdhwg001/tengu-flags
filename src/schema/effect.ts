@@ -30,6 +30,7 @@ export const uiEffect = z.strictObject({
 });
 
 // A branch the gate decides: the operation, one sentence, and a flowchart in the project's own node labels.
+// tools/validate.ts holds the Mermaid string to the flowchart rule of tools/lib/mermaid.ts.
 export const flowEffect = z.strictObject({
   kind: z.literal('flow'),
   when: effectWhen,

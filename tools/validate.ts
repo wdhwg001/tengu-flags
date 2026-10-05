@@ -15,6 +15,7 @@ import { type GateRow, gateRowSchema } from '../src/schema/gate.ts';
 import { formatViolation, type Parsed, parseFile, parseRows, type Violation } from '../src/schema/parse.ts';
 import { codeShape, jsonStrings } from './lib/codeshape.ts';
 import { arg, readJson, rel, versionDirs, walk } from './lib/files.ts';
+import { mermaidShape } from './lib/mermaid.ts';
 import { PRIVATE } from './lib/privacy.ts';
 
 const dataDir = resolve(arg('--data', 'data'));
@@ -60,11 +61,15 @@ function checkPrivacy(file: string): void {
 }
 
 // The client's code is not published (DESIGN, "What is published about the binary"): no string of a data file and
-// no line of a receipts file may read as code. The patterns and their reasons are in tools/lib/codeshape.ts.
+// no line of a receipts file may read as code. The patterns and their reasons are in tools/lib/codeshape.ts. A gate
+// effect's `text`, `summary`, `where` and `mermaid` and the row's `values` are strings like any other and pass the
+// same rule; a `mermaid` string also passes the flowchart rule of tools/lib/mermaid.ts.
 function checkCodeShape(file: string): void {
   const refuse = (where: string, text: string): void => {
     const hit = codeShape(text);
     if (hit) stop(file, where, `reads as code (${hit.name}: "${hit.match}"); say in words what the code does`);
+    const chart = where.endsWith('.mermaid') ? mermaidShape(text) : null;
+    if (chart) stop(file, where, `is not a flowchart in the project's own words (${chart.name}: "${chart.match}")`);
   };
   if (file.endsWith('.json')) for (const [path, text] of jsonStrings(load(file))) refuse(path, text);
   else if (file.endsWith('.md'))
