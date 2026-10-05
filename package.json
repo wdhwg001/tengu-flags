@@ -20,6 +20,7 @@
   "dependencies": {
     "@solidjs/web": "2.0.0-rc.13",
     "flexsearch": "0.8.212",
+    "mermaid": "12.1.0",
     "solid-js": "2.0.0-rc.13",
     "zod": "4.6.5"
   },

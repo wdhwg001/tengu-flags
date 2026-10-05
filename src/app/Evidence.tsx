@@ -1,5 +1,6 @@
-import { For } from 'solid-js';
+import { createSignal, For, Show } from 'solid-js';
 import type { Row } from '../lib/search.ts';
+import { Effects } from './Effects.tsx';
 
 const fmt = (n: number): string => n.toLocaleString('en-US');
 
@@ -11,13 +12,30 @@ function siteLine(p: Row['provenance'][number]): string {
   return `${build}, byte offset ${fmt(p.offset)}${role}`;
 }
 
+// The row's detail, opened inline: what a gate changes and how its value composes, when the row says, then where
+// the row was read. A row that says neither opens onto the read sites alone.
 export function Evidence(props: { row: Row }) {
+  const [open, setOpen] = createSignal(false);
   const count = () => props.row.provenance.length;
+  const effects = () => (props.row.kind === 'gate' ? props.row.effects : []);
+  const values = () => (props.row.kind === 'gate' ? props.row.values : null);
+  const says = () => effects().length > 0 || values() !== null;
+  const label = () => (says() ? 'What it does and where it was read' : 'Where it was read');
   return (
-    <details class="text-xs">
+    <details class="text-xs" onToggle={(e) => setOpen(e.currentTarget.open)}>
       <summary class="cursor-pointer text-neutral-500 select-none hover:text-neutral-800 dark:hover:text-neutral-200">
-        {count() === 1 ? 'Where it was read' : `Where it was read (${count()} sites)`}
+        {count() === 1 ? label() : `${label()} (${count()} sites)`}
       </summary>
+      <Show when={effects().length > 0}>
+        <Effects effects={effects()} open={open()} />
+      </Show>
+      <Show when={values()}>
+        {(sentence) => (
+          <p data-testid="values" class="mb-2">
+            {sentence()}
+          </p>
+        )}
+      </Show>
       <ul data-testid="evidence" class="mt-1 space-y-0.5 text-neutral-500">
         <For each={props.row.provenance}>{(p) => <li>{siteLine(p)}</li>}</For>
       </ul>

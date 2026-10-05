@@ -11,8 +11,9 @@ const dev = params.get('dev') === 'sample';
 render(
   () => (
     <App
-      // The dev server has no search corpus, so it builds one; the built page fetches what tools/build-data.ts wrote.
-      source={{ base: dev ? 'sample/' : 'data/', corpus: import.meta.env.DEV ? 'compute' : 'fetch' }}
+      // The dev server and the sample tree have no search corpus, so the page builds one; the built page on the
+      // published data fetches what tools/build-data.ts wrote.
+      source={{ base: dev ? 'sample/' : 'data/', corpus: dev || import.meta.env.DEV ? 'compute' : 'fetch' }}
       dev={dev}
       pinnedVersion={params.get('v')}
       initialSelection={decodeSelection(params.get('c'))}
