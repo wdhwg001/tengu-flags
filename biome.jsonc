@@ -1,0 +1,51 @@
+{
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+  "vcs": { "enabled": true, "clientKind": "git", "useIgnoreFile": true },
+  "files": {
+    // data/ is the pipelines' output and must stay byte-identical; sample/ is a hand-kept fixture tree.
+    "includes": ["**", "!data", "!sample", "!dist", "!package-lock.json"]
+  },
+  "formatter": { "enabled": true, "indentStyle": "space", "indentWidth": 2, "lineWidth": 120 },
+  "javascript": { "formatter": { "quoteStyle": "single" } },
+  "linter": {
+    "enabled": true,
+    // The recommended set first; each entry below carries one intent of the gate (DESIGN, "Toolchain and gates").
+    // Every intent is raised to "error" because `biome ci --error-on-warnings` fails on warnings but not on info,
+    // and two of these rules default to info.
+    "domains": {
+      // Solid's own rules (destructured props, <For> over .map): the recommended members of the domain.
+      "solid": "recommended"
+    },
+    "rules": {
+      "preset": "recommended",
+      "complexity": {
+        // Intent: no function harder to read than csift allows (cognitive complexity 25, Biome's default is 15).
+        "noExcessiveCognitiveComplexity": { "level": "error", "options": { "maxAllowedComplexity": 25 } }
+      },
+      "suspicious": {
+        // Intent: no `any`; a boundary takes `unknown` and parses it through a schema.
+        "noExplicitAny": "error",
+        // Intent: no expression statement whose result is dropped (a forgotten return or call).
+        "noUnusedExpressions": "error",
+        // Intent: `@ts-ignore` refused; `@ts-expect-error` with a reason is the only type suppression.
+        "noTsIgnore": "error"
+      },
+      "correctness": {
+        // Intent: unused names refused unless they open with `_`; Biome exempts the underscore prefix itself.
+        "noUnusedVariables": "error",
+        "noUnusedFunctionParameters": "error",
+        "noUnusedImports": "error"
+      },
+      "style": {
+        // Intent: no `!` non-null assertion; the type says what may be missing and the code handles it.
+        "noNonNullAssertion": "error"
+      },
+      "nursery": {
+        // Intent: no promise left floating. Type-aware through Biome's own inference (the `types` domain);
+        // it follows imported functions, object methods and DOM globals such as fetch.
+        "noFloatingPromises": "error"
+      }
+    }
+  },
+  "assist": { "enabled": true, "actions": { "source": { "organizeImports": "on" } } }
+}

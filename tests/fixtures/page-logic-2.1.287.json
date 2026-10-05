@@ -1,0 +1,114 @@
+{
+  "source": "site/core.js on main, run over data/ at 2.1.287",
+  "changeSelection": [
+    {
+      "version": "1.0.60",
+      "count": 0,
+      "slugsSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "version": "2.0.0",
+      "count": 35,
+      "slugsSha256": "cf2f9a1d7abc757d272039a74a9e30ca4a21f492d7469c38d9cc2332daad7f8d"
+    },
+    {
+      "version": "2.1.32",
+      "count": 211,
+      "slugsSha256": "a36f5637a0db5cf907b9216d7edeed2173f23c849c4cabe50f5ac3bc181a729d"
+    },
+    {
+      "version": "2.1.116",
+      "count": 445,
+      "slugsSha256": "4641e59d8e23ebc6060442b201ec107d473fb1da9601b4583efc1834e6ebf87d"
+    },
+    {
+      "version": "2.1.117",
+      "count": 454,
+      "slugsSha256": "037cddbdadd8a809180f4e3b447b915f02d2218ee7736bb9e012dd81d4258584"
+    },
+    {
+      "version": "2.1.200",
+      "count": 652,
+      "slugsSha256": "165d6063bda960a0e9702eaed0751de929033c903e100a821da9f4c358746f03"
+    },
+    {
+      "version": "2.1.287",
+      "count": 910,
+      "slugsSha256": "b8bd01552ab8aa3d81a2a4734568fa1303805459cbb55dab0feafd1466db52a0"
+    }
+  ],
+  "searchCorpus": {
+    "version": "2.1.287",
+    "documents": 4946,
+    "sha256": "5f10e09046a5b4c40d0365b5dda5f7efc736679ede85bbeb5256f83be76ca5bf",
+    "samples": [
+      {
+        "id": "grep-glob-tools-hidden-on-native-builds",
+        "kind": "change",
+        "name": "Grep and Glob tools hidden on native macOS and Linux builds",
+        "slug": "grep-glob-tools-hidden-on-native-builds",
+        "what": "On the native macOS and Linux builds the Grep and Glob tools are no longer offered to the model by default. Searching goes through the embedded grep and find in the Bash tool instead.",
+        "key": "",
+        "work": "From 2.1.162, Grep or Glob named in --tools at launch sets the search-tools opt-in and brings both tools back for that session. Grep or Glob named in --allowedTools at launch works the same way, because the opt-in reads the --allowedTools rules as well as --tools. Running with CLAUDE_CODE_ENTRYPOINT=local-agent keeps both tools, because the filter skips that entrypoint."
+      },
+      {
+        "id": "amber-creek",
+        "kind": "gate",
+        "name": "tengu_amber_creek",
+        "slug": "amber-creek",
+        "what": "Turns the fullscreen (no-flicker) terminal UI on for a cohort when neither settings.tui nor CLAUDE_CODE_NO_FLICKER has decided.",
+        "key": "CLAUDE_CODE_NO_FLICKER tui",
+        "work": ""
+      },
+      {
+        "id": "ccr-enable-bundle",
+        "kind": "env",
+        "name": "CCR_ENABLE_BUNDLE",
+        "slug": "ccr-enable-bundle",
+        "what": "Forces repository bundle seeding on for remote sessions, bypassing the server-side gate.",
+        "key": "ccr-bundle-seed-enabled",
+        "work": ""
+      },
+      {
+        "id": "event:tengu_1m_credits_clamp_activated",
+        "kind": "event",
+        "name": "tengu_1m_credits_clamp_activated",
+        "slug": "",
+        "what": "",
+        "key": "",
+        "work": ""
+      }
+    ]
+  },
+  "controls": {
+    "gatesWithControl": 117,
+    "envWithControl": 893
+  },
+  "export": {
+    "selection": {
+      "amber-creek": "off",
+      "brick-follow": "on",
+      "ccr-plugin-refresh-in-idle-enabled": "off",
+      "feedback-survey-config": "on",
+      "sepia-moth": "off",
+      "pewter-brook": "on",
+      "api-force-idle-timeout": "42",
+      "ai-agent": "1",
+      "no-such-row": "1"
+    },
+    "encoded": "eyJhaS1hZ2VudCI6IjEiLCJhbWJlci1jcmVlayI6Im9mZiIsImFwaS1mb3JjZS1pZGxlLXRpbWVvdXQiOiI0MiIsImJyaWNrLWZvbGxvdyI6Im9uIiwiY2NyLXBsdWdpbi1yZWZyZXNoLWluLWlkbGUtZW5hYmxlZCI6Im9mZiIsImZlZWRiYWNrLXN1cnZleS1jb25maWciOiJvbiIsIm5vLXN1Y2gtcm93IjoiMSIsInBld3Rlci1icm9vayI6Im9uIiwic2VwaWEtbW90aCI6Im9mZiJ9",
+    "result": {
+      "env": {
+        "CLAUDE_CODE_NO_FLICKER": "1",
+        "API_FORCE_IDLE_TIMEOUT": "42",
+        "CLAUDE_CODE_VOICE_FORWARD_INTERIMS_TYPED": "1",
+        "CLAUDE_CODE_SYNC_PLUGIN_INSTALL": "1"
+      },
+      "settings": {
+        "feedbackSurveyRate": true,
+        "precomputeCompactionEnabled": false
+      },
+      "skipped": ["ai-agent", "no-such-row"]
+    }
+  }
+}

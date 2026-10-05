@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "sample-alpha",
+    "kind": "gate",
+    "name": "tengu_sample_alpha",
+    "what": "Sample gate that turns the alpha panel on.",
+    "whatBasis": "read",
+    "provenance": [
+      {
+        "version": "2.1.286",
+        "offset": 1011
+      }
+    ],
+    "classes": [
+      "gate"
+    ],
+    "default": false,
+    "valueSource": [
+      "growthbook"
+    ],
+    "cacheReach": "full",
+    "override": [
+      {
+        "shape": "env",
+        "key": "SAMPLE_ALPHA_ENV",
+        "direction": "both"
+      }
+    ],
+    "prerequisites": [],
+    "floor": {
+      "build": "2.1.286",
+      "previousRung": null,
+      "basis": "literal"
+    }
+  },
+  {
+    "slug": "sample-beta",
+    "kind": "gate",
+    "name": "tengu_sample_beta",
+    "what": "Sample gate that a settings key can force on.",
+    "whatBasis": "inferred",
+    "provenance": [
+      {
+        "version": "2.1.286",
+        "offset": 1022
+      }
+    ],
+    "classes": [
+      "gate"
+    ],
+    "default": {
+      "expr": "x>2"
+    },
+    "valueSource": [
+      "growthbook"
+    ],
+    "cacheReach": "partial",
+    "override": [
+      {
+        "shape": "settings",
+        "key": "sampleBeta",
+        "direction": "on"
+      }
+    ],
+    "prerequisites": [],
+    "floor": {
+      "build": "2.1.286",
+      "previousRung": null,
+      "basis": "literal"
+    }
+  },
+  {
+    "slug": "sample-gamma",
+    "kind": "gate",
+    "name": "tengu_sample_gamma",
+    "what": "Sample gate with no override at all.",
+    "whatBasis": "inferred",
+    "provenance": [
+      {
+        "version": "2.1.286",
+        "offset": 1033
+      }
+    ],
+    "classes": [
+      "gate"
+    ],
+    "default": null,
+    "valueSource": [
+      "growthbook"
+    ],
+    "cacheReach": "none",
+    "override": null,
+    "prerequisites": [],
+    "floor": {
+      "build": "2.1.286",
+      "previousRung": null,
+      "basis": "literal"
+    }
+  },
+  {
+    "slug": "sample-epsilon",
+    "kind": "gate",
+    "name": "tengu_sample_epsilon",
+    "what": "Sample gate that left after 2.1.286.",
+    "whatBasis": "inferred",
+    "provenance": [
+      {
+        "version": "2.1.286",
+        "offset": 1055
+      }
+    ],
+    "classes": [
+      "gate"
+    ],
+    "default": false,
+    "valueSource": [
+      "growthbook"
+    ],
+    "cacheReach": "full",
+    "override": null,
+    "prerequisites": [],
+    "floor": {
+      "build": "2.1.286",
+      "previousRung": null,
+      "basis": "literal"
+    }
+  }
+]

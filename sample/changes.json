@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "sample-tool-removed",
+    "kind": "change",
+    "name": "SampleTool removed",
+    "what": "The sample tool left the tool list.",
+    "whatBasis": "read",
+    "provenance": [
+      {
+        "version": "2.1.287",
+        "offset": 2500
+      }
+    ],
+    "surface": "tool",
+    "direction": "removed",
+    "enteredAt": {
+      "version": "2.1.287",
+      "lowerBound": "2.1.286",
+      "method": "cached-rung"
+    },
+    "mechanism": "A constant in the tool registry drops the sample tool before the list is built.",
+    "workarounds": [
+      {
+        "kind": "flag",
+        "text": "Start with --sample-tools to put it back for one session."
+      },
+      {
+        "kind": "settings",
+        "text": "Add \"sampleTools\": true to settings.json."
+      }
+    ],
+    "changelog": {
+      "version": "2.1.287",
+      "quote": "Sample: removed SampleTool"
+    }
+  },
+  {
+    "slug": "sample-command-gone",
+    "kind": "change",
+    "name": "/sample command removed",
+    "what": "The /sample slash command is gone.",
+    "whatBasis": "inferred",
+    "provenance": [
+      {
+        "version": "2.1.286",
+        "offset": 1500
+      }
+    ],
+    "surface": "command",
+    "direction": "removed",
+    "enteredAt": {
+      "version": "2.1.286",
+      "lowerBound": "2.1.285",
+      "method": "changelog"
+    },
+    "mechanism": "The command registry no longer lists it.",
+    "workarounds": [
+      {
+        "kind": "none",
+        "text": "No workaround. It has been gone since 2.1.286.",
+        "since": "2.1.286"
+      }
+    ],
+    "changelog": null
+  }
+]

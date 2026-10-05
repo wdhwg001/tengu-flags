@@ -1,0 +1,43 @@
+# Publishes dist/ to the gh-pages branch on every push to main.
+# gh-pages holds the built site and nothing else; only this workflow writes it.
+# Repository setting this relies on: Settings > Pages > Source = "Deploy from a branch", branch gh-pages, folder / (root).
+# It runs the same gate as the pre-commit hook and the same Playwright checks as the pre-push hook before publishing.
+name: pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # The git hooks are for local commits; npm ci here installs no hook.
+      HUSKY: '0'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run gate
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: npm run e2e
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./dist
+          force_orphan: true
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com

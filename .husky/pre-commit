@@ -1,0 +1,2 @@
+# The same gate the Pages workflow runs, so a commit that passes here is the commit CI builds.
+npm run gate

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* The row a #slug link names keeps a visible mark after the scroll, so the eye finds it among thousands. */
+@keyframes jump-flash {
+  from {
+    background-color: var(--color-amber-200);
+  }
+}
+.jump-target {
+  animation: jump-flash 1.5s ease-out;
+}

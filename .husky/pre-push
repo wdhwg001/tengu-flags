@@ -1,0 +1,2 @@
+# The Playwright checks need a built page and a browser, so they run before a push rather than on every commit.
+npm run build && npm run e2e
