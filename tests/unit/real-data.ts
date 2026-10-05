@@ -28,7 +28,8 @@ const parsedEvents = parseFile('events.json', eventsFile, readJson(`versions/${V
 if (!parsedEvents.ok) throw new Error(formatViolation(parsedEvents.violation));
 export const events = parsedEvents.value;
 
-// Derived from the page logic on main (site/core.js) run over this data; see the fixture's `source` field.
+// Derived from the page logic on main (site/core.js) run over this data; see the fixture's `source` field. That logic
+// had no `effect` field, so the fixture pins every document field but that one.
 const pageLogicFixture = z.strictObject({
   source: z.string(),
   changeSelection: z.array(z.strictObject({ version: z.string(), count: z.int(), slugsSha256: z.string() })),
@@ -36,7 +37,7 @@ const pageLogicFixture = z.strictObject({
     version: z.string(),
     documents: z.int(),
     sha256: z.string(),
-    samples: z.array(searchDoc),
+    samples: z.array(searchDoc.omit({ effect: true })),
   }),
   controls: z.strictObject({ gatesWithControl: z.int(), envWithControl: z.int() }),
   export: z.strictObject({

@@ -1,5 +1,5 @@
 // The search corpus and the searcher over it. The field set is fixed by DESIGN ("The page's behaviour"):
-// name, slug, what, the override key and the workaround text.
+// name, slug, what, the override key, the workaround text, and a gate's effects and `values` sentence.
 import { Document } from 'flexsearch';
 import type { ChangeRow } from '../schema/change.ts';
 import type { EnvRow } from '../schema/env.ts';
@@ -16,6 +16,20 @@ function overrideKeys(r: Row): string[] {
   return [];
 }
 
+// What a gate does, as a reader meets it: each effect's verbatim text (a prompt sentence, a UI line), its summary and
+// where it acts, then the `values` sentence; a sentence met in a transcript finds the gate that put it there.
+function effectText(r: Row): string {
+  if (r.kind !== 'gate') return '';
+  const parts: string[] = [];
+  for (const e of r.effects) {
+    if ('where' in e) parts.push(e.where);
+    if ('text' in e) parts.push(e.text);
+    if ('summary' in e) parts.push(e.summary);
+  }
+  if (r.values !== null) parts.push(r.values);
+  return parts.join(' ');
+}
+
 // Property order is part of the corpus bytes tools/build-data.ts writes; keep it.
 export function searchDocs(rows: readonly Row[], events: readonly string[]): SearchDoc[] {
   const docs: SearchDoc[] = rows.map((r) => ({
@@ -26,13 +40,14 @@ export function searchDocs(rows: readonly Row[], events: readonly string[]): Sea
     what: r.what ?? '',
     key: overrideKeys(r).join(' '),
     work: r.kind === 'change' ? r.workarounds.map((w) => w.text).join(' ') : '',
+    effect: effectText(r),
   }));
   for (const e of events)
-    docs.push({ id: `event:${e}`, kind: 'event', name: e, slug: '', what: '', key: '', work: '' });
+    docs.push({ id: `event:${e}`, kind: 'event', name: e, slug: '', what: '', key: '', work: '', effect: '' });
   return docs;
 }
 
-const FIELDS = ['name', 'slug', 'what', 'key', 'work'] as const;
+const FIELDS = ['name', 'slug', 'what', 'key', 'work', 'effect'] as const;
 
 export interface Searcher {
   // Every matching document id, FlexSearch's ranking first; an empty query matches everything.

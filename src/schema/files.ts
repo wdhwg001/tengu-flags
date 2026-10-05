@@ -39,6 +39,8 @@ export const searchDoc = z.strictObject({
   what: z.string(),
   key: z.string(),
   work: z.string(),
+  // A gate's effect texts, summaries and places, and its `values` sentence; empty on every other row.
+  effect: z.string(),
 });
 export type SearchDoc = z.infer<typeof searchDoc>;
 export const searchCorpus = z.array(searchDoc);
