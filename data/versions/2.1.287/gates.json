@@ -2914,8 +2914,8 @@
     "kind": "flow",
     "when": "on",
     "where": "Remote Control start-up after a resume",
-    "summary": "On, a bridge session named in the resumed transcript and still served by another local process is left alone unless Remote Control was turned on explicitly.",
-    "mermaid": "flowchart TD\n  A[Resumed transcript names a bridge session] --> B{Gate on and another local process serves it}\n  B -->|no| C[Connect as usual]\n  B -->|yes| D{Turned on explicitly}\n  D -->|yes| E[Take the session over]\n  D -->|no| F[Skip and leave it to the other process]"
+    "summary": "On, a bridge session named in the resumed transcript and still served by another local process is left alone, unless Remote Control was turned on explicitly and the start is not a revive.",
+    "mermaid": "flowchart TD\n  A[Resumed transcript names a bridge session] --> B{Gate on and another local process serves it}\n  B -->|no| C[Connect as usual]\n  B -->|yes| D{Turned on explicitly and not a revive}\n  D -->|yes| E[Take the session over]\n  D -->|no| F[Skip and leave it to the other process]"
    }
   ],
   "values": null,
@@ -4198,8 +4198,8 @@
     "kind": "flow",
     "when": "on",
     "where": "heartbeats of a cloud session",
-    "summary": "On, the first activity after an idle stretch sends a heartbeat at once.",
-    "mermaid": "flowchart TD\n  A[Activity after idle] --> B{Gate on and beat armed}\n  B -->|yes| C[Heartbeat sent now]\n  B -->|no| D[Next scheduled heartbeat]"
+    "summary": "On, the first activity after an idle stretch sends a heartbeat at once, provided the server has granted a longer idle heartbeat interval, the beat is armed and no heartbeat drew a 429 within the seed interval.",
+    "mermaid": "flowchart TD\n  A[Activity after idle] --> B{Gate on}\n  B -->|no| D[Next scheduled heartbeat]\n  B -->|yes| C{Server granted a longer idle interval and the beat is armed}\n  C -->|no| D\n  C -->|yes| E{A 429 reply within the seed interval}\n  E -->|yes| D\n  E -->|no| F[Heartbeat sent now]"
    }
   ],
   "values": null,
@@ -8270,7 +8270,7 @@
   "slug": "dreamy-frost",
   "kind": "gate",
   "name": "tengu_dreamy_frost",
-  "what": "Sends the anthropic-dispatch-id header with the value v2d on API requests, ahead of tengu_cedar_lattice. A server error strips the header and retries.",
+  "what": "Sends the anthropic-dispatch-id header with the value v2d on API requests, ahead of tengu_cedar_lattice. A 5xx reply or a connection error retries the request once with the value v2p.",
   "whatBasis": "read",
   "classes": [
    "gate"
@@ -8287,8 +8287,8 @@
     "kind": "flow",
     "when": "on",
     "where": "first-party API requests, side queries included",
-    "summary": "On, every request carries the dispatch header with v2d; a 5xx reply or connection error removes the header and retries.",
-    "mermaid": "flowchart TD\n  A[API request] --> B{Gate}\n  B -->|on| C[Dispatch header v2d]\n  B -->|off| D{Auxiliary request}\n  D -->|yes| E[No dispatch header]\n  D -->|no| F[tengu_cedar_lattice decides v2s or none]\n  C --> G{Server error}\n  G -->|yes| H[Strip the header and retry]"
+    "summary": "On first-party requests the gate puts v2d in the dispatch header; a 5xx reply or connection error retries once with v2p, and a request sent with no header is retried the same way on a 503.",
+    "mermaid": "flowchart TD\n  A[API request] --> P{First-party}\n  P -->|no| N[No dispatch header and no dispatch retry]\n  P -->|yes| B{Gate}\n  B -->|on| C[Dispatch header v2d]\n  B -->|off| D{Auxiliary request}\n  D -->|yes| E[No dispatch header]\n  D -->|no| F[tengu_cedar_lattice decides v2s or none]\n  C --> G{5xx reply or connection error}\n  F -->|v2s| G\n  F -->|none| I{503 reply}\n  E --> I\n  G -->|yes| H[Retry once with dispatch header v2p]\n  I -->|yes| H"
    }
   ],
   "values": null,
@@ -15069,8 +15069,8 @@
     "kind": "flow",
     "when": "on",
     "where": "a running MCP tool call",
-    "summary": "On, an MCP tool call still running after 120 seconds moves to the background; off, it never does. IDE servers and sessions with background tasks disabled are exempt.",
-    "mermaid": "flowchart TD\n  A[MCP tool call running] --> B{IDE server or background tasks disabled}\n  B -->|yes| C[Stays in the foreground]\n  B -->|no| D{Gate}\n  D -->|on| E[Moved to the background after 120 seconds]\n  D -->|off| C"
+    "summary": "On, an MCP tool call still running after 120 seconds moves to the background; off, it never does. IDE servers, sessions with background tasks disabled and non-interactive sessions without CLAUDE_AUTO_BACKGROUND_TASKS are exempt.",
+    "mermaid": "flowchart TD\n  A[MCP tool call running] --> B{IDE server or background tasks disabled}\n  B -->|yes| C[Stays in the foreground]\n  B -->|no| N{Non-interactive session without CLAUDE_AUTO_BACKGROUND_TASKS}\n  N -->|yes| C\n  N -->|no| D{Gate}\n  D -->|on| E[Moved to the background after 120 seconds]\n  D -->|off| C"
    }
   ],
   "values": "CLAUDE_CODE_MCP_AUTO_BACKGROUND_MS replaces the gate with its own threshold in milliseconds, clamped between zero and the largest timer value; unset, a served on means 120000 ms and off means 0, which never moves a call.",
@@ -15595,7 +15595,7 @@
   "slug": "mcp-memory-cgroup",
   "kind": "gate",
   "name": "tengu_mcp_memory_cgroup",
-  "what": "Only a served false matters here. It turns off the memory cgroup the client places MCP servers in.",
+  "what": "Only a served false matters. It keeps MCP servers out of the tool memory cgroup when tengu_tool_cgroup_exclude_classes serves a list without mcp.",
   "whatBasis": "read",
   "classes": [
    "gate"
@@ -15618,8 +15618,8 @@
     "kind": "flow",
     "when": "off",
     "where": "placing tool processes in the tool memory cgroup",
-    "summary": "When CLAUDE_CODE_TOOL_MEMORY_CGROUP_EXCLUDE is unset, a served false adds MCP servers to the classes kept out of the tool memory cgroup.",
-    "mermaid": "flowchart TD\n  A[Start a tool process] --> B{Exclude list variable set}\n  B -->|yes| C[The variable decides]\n  B -->|no| D{Served false}\n  D -->|yes| E[MCP servers run outside the memory cgroup]\n  D -->|no| F[MCP servers placed in the memory cgroup]"
+    "summary": "MCP servers stay out of the tool memory cgroup when the excluded classes include mcp, which the default list does; otherwise CLAUDE_CODE_MCP_MEMORY_CGROUP set to off or none, or a served false with the exclude-list variable unset, keeps them out.",
+    "mermaid": "flowchart TD\n  A[Start a tool process] --> B{Exclude list variable set}\n  B -->|yes| C[Classes from the variable]\n  B -->|no| D{tengu_tool_cgroup_exclude_classes serves a list}\n  D -->|yes| E[Classes from the served list]\n  D -->|no| F[Default classes, mcp included]\n  C --> G{mcp among the classes}\n  E --> G\n  F --> G\n  G -->|yes| X[MCP servers run outside the memory cgroup]\n  G -->|no| H{CLAUDE_CODE_MCP_MEMORY_CGROUP is off or none}\n  H -->|yes| X\n  H -->|no| I{Exclude list variable unset and gate served false}\n  I -->|yes| X\n  I -->|no| Y[MCP servers placed in the memory cgroup]"
    }
   ],
   "values": null,
@@ -16588,7 +16588,7 @@
   "slug": "mint-lanes",
   "kind": "gate",
   "name": "tengu_mint_lanes",
-  "what": "Groups slash-command menu items into lanes by kind.",
+  "what": "Shows each slash-command menu row with its kind in a fixed-width column and its source tag in brackets. The order of the entries does not change.",
   "whatBasis": "read",
   "classes": [
    "gate"
@@ -23690,7 +23690,7 @@
    {
     "kind": "prompt",
     "when": "on",
-    "where": "the reminder sent when auto mode is exited, added after its first sentence",
+    "where": "the reminder sent when auto mode is exited: in its steer-only form the sentence follows the first sentence, You have exited auto mode.; in its ordinary form it ends the paragraph, after the sentence about asking clarifying questions",
     "text": "Resume using the dedicated tools for file reads, searches, and edits."
    },
    {

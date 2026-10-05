@@ -40,7 +40,7 @@
   "searchCorpus": {
     "version": "2.1.287",
     "documents": 4946,
-    "sha256": "193971b00525f415d1931fb817368dcb6be1154163bb7260f6fcc630bdaa9b93",
+    "sha256": "e17ec75fd9eb579a783e05adc3089158c05b3b7c56c6c5d09ede4ae59915321d",
     "samples": [
       {
         "id": "grep-glob-tools-hidden-on-native-builds",
