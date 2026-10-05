@@ -15,6 +15,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -44,6 +46,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -73,6 +77,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -102,6 +108,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -131,6 +139,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -171,6 +181,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -205,6 +217,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -240,6 +254,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -269,6 +285,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -298,6 +316,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -327,6 +347,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.144",
    "previousRung": "2.1.143",
@@ -356,6 +378,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.113",
    "previousRung": "2.1.112",
@@ -385,6 +409,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -419,6 +445,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.198",
    "previousRung": "2.1.197",
@@ -448,6 +476,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -477,6 +507,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.117",
    "previousRung": "2.1.116",
@@ -506,6 +538,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -535,6 +569,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -564,6 +600,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -593,6 +631,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -622,6 +662,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -651,6 +693,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -690,6 +734,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -719,6 +765,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -748,6 +796,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -777,6 +827,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -806,6 +858,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -835,6 +889,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -866,6 +922,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -945,6 +1003,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -990,6 +1050,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -1024,6 +1086,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -1060,6 +1124,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -1089,6 +1155,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -1123,6 +1191,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -1152,6 +1222,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -1181,6 +1253,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -1210,6 +1284,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -1239,6 +1315,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.152",
    "previousRung": "2.1.150",
@@ -1272,6 +1350,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -1301,6 +1381,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -1330,6 +1412,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -1359,6 +1443,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.206",
    "previousRung": "2.1.205",
@@ -1388,6 +1474,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.206",
    "previousRung": "2.1.205",
@@ -1417,6 +1505,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -1446,6 +1536,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -1475,6 +1567,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -1509,6 +1603,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -1538,6 +1634,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -1567,6 +1665,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -1602,6 +1702,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -1637,6 +1739,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -1666,6 +1770,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -1695,6 +1801,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -1735,6 +1843,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -1764,6 +1874,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.198",
    "previousRung": "2.1.197",
@@ -1793,6 +1905,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -1822,6 +1936,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -1851,6 +1967,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -1887,6 +2005,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -1921,6 +2041,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -1950,6 +2072,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -1979,6 +2103,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -2008,6 +2134,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.225",
    "previousRung": "2.1.224",
@@ -2037,6 +2165,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2066,6 +2196,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2095,6 +2227,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2124,6 +2258,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2153,6 +2289,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2182,6 +2320,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -2211,6 +2351,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -2240,6 +2382,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2269,6 +2413,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -2300,6 +2446,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -2329,6 +2477,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -2358,6 +2508,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -2387,6 +2539,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -2418,6 +2572,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -2447,6 +2603,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2476,6 +2634,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -2505,6 +2665,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2534,6 +2696,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -2563,6 +2727,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -2592,6 +2758,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -2623,6 +2791,8 @@
   "cacheReach": "none",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -2652,6 +2822,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -2681,6 +2853,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -2715,6 +2889,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -2744,6 +2920,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.222",
    "previousRung": "2.1.221",
@@ -2773,6 +2951,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -2802,6 +2982,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -2831,6 +3013,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -2860,6 +3044,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.228",
    "previousRung": "2.1.227",
@@ -2889,6 +3075,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -2924,6 +3112,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -2959,6 +3149,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -2990,6 +3182,8 @@
   "cacheReach": "none",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -3019,6 +3213,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -3048,6 +3244,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -3077,6 +3275,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -3112,6 +3312,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -3152,6 +3354,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -3181,6 +3385,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -3210,6 +3416,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -3239,6 +3447,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -3268,6 +3478,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -3317,6 +3529,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -3357,6 +3571,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -3402,6 +3618,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -3431,6 +3649,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -3465,6 +3685,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -3499,6 +3721,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -3533,6 +3757,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -3562,6 +3788,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -3597,6 +3825,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -3626,6 +3856,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -3660,6 +3892,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -3694,6 +3928,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -3723,6 +3959,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -3752,6 +3990,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -3786,6 +4026,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -3816,6 +4058,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -3845,6 +4089,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -3880,6 +4126,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -3909,6 +4157,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.228",
    "previousRung": "2.1.227",
@@ -3943,6 +4193,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.228",
    "previousRung": "2.1.227",
@@ -3977,6 +4229,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -4006,6 +4260,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -4040,6 +4296,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -4074,6 +4332,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -4110,6 +4370,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -4144,6 +4406,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -4178,6 +4442,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -4212,6 +4478,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -4241,6 +4509,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -4275,6 +4545,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -4309,6 +4581,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -4338,6 +4612,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.143",
    "previousRung": "2.1.142",
@@ -4368,6 +4644,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -4397,6 +4675,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -4437,6 +4717,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -4466,6 +4748,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -4495,6 +4779,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -4524,6 +4810,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -4553,6 +4841,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -4582,6 +4872,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -4616,6 +4908,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -4651,6 +4945,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -4685,6 +4981,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -4714,6 +5012,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -4743,6 +5043,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -4777,6 +5079,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.206",
    "previousRung": "2.1.205",
@@ -4806,6 +5110,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -4835,6 +5141,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -4864,6 +5172,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.152",
    "previousRung": "2.1.150",
@@ -4893,6 +5203,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -4922,6 +5234,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -4951,6 +5265,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.216",
    "previousRung": "2.1.215",
@@ -4980,6 +5296,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -5009,6 +5327,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -5038,6 +5358,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -5067,6 +5389,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -5101,6 +5425,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -5135,6 +5461,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -5164,6 +5492,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -5199,6 +5529,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -5228,6 +5560,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -5257,6 +5591,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -5287,6 +5623,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -5323,6 +5661,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -5358,6 +5698,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -5393,6 +5735,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -5428,6 +5772,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.216",
    "previousRung": "2.1.215",
@@ -5457,6 +5803,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -5486,6 +5834,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -5520,6 +5870,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -5549,6 +5901,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -5584,6 +5938,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -5613,6 +5969,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.198",
    "previousRung": "2.1.197",
@@ -5642,6 +6000,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -5671,6 +6031,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -5716,6 +6078,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -5755,6 +6119,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -5784,6 +6150,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -5815,6 +6183,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -5849,6 +6219,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -5878,6 +6250,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -5907,6 +6281,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -5936,6 +6312,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -5965,6 +6343,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.216",
    "previousRung": "2.1.215",
@@ -5994,6 +6374,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -6029,6 +6411,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -6058,6 +6442,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -6087,6 +6473,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -6116,6 +6504,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -6145,6 +6535,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -6180,6 +6572,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -6215,6 +6609,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -6244,6 +6640,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -6279,6 +6677,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -6308,6 +6708,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -6337,6 +6739,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -6366,6 +6770,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -6400,6 +6806,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -6429,6 +6837,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -6458,6 +6868,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -6493,6 +6905,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -6528,6 +6942,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -6557,6 +6973,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -6586,6 +7004,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -6615,6 +7035,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -6650,6 +7072,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -6679,6 +7103,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -6708,6 +7134,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -6738,6 +7166,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -6767,6 +7197,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -6801,6 +7233,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -6830,6 +7264,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -6864,6 +7300,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -6893,6 +7331,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -6928,6 +7368,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -6957,6 +7399,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -6993,6 +7437,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -7022,6 +7468,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -7051,6 +7499,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.233",
    "previousRung": "2.1.232",
@@ -7091,6 +7541,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -7126,6 +7578,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -7155,6 +7609,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -7184,6 +7640,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.203",
    "previousRung": "2.1.202",
@@ -7213,6 +7671,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -7242,6 +7702,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -7271,6 +7733,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -7300,6 +7764,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -7329,6 +7795,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -7368,6 +7836,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -7397,6 +7867,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -7426,6 +7898,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -7455,6 +7929,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.195",
    "previousRung": "2.1.193",
@@ -7484,6 +7960,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.207",
    "previousRung": "2.1.206",
@@ -7515,6 +7993,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -7552,6 +8032,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -7581,6 +8063,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -7615,6 +8099,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -7650,6 +8136,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -7679,6 +8167,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.116",
    "previousRung": "2.1.114",
@@ -7713,6 +8203,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -7742,6 +8234,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -7771,6 +8265,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -7800,6 +8296,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -7829,6 +8327,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -7869,6 +8369,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -7898,6 +8400,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -7927,6 +8431,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -7962,6 +8468,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -7991,6 +8499,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -8020,6 +8530,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -8049,6 +8561,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -8088,6 +8602,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -8117,6 +8633,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -8146,6 +8664,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -8182,6 +8702,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -8211,6 +8733,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -8240,6 +8764,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -8269,6 +8795,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -8298,6 +8826,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -8332,6 +8862,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -8366,6 +8898,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -8395,6 +8929,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -8438,6 +8974,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.0.0",
    "previousRung": "1.0.60",
@@ -8472,6 +9010,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -8503,6 +9043,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -8538,6 +9080,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -8569,6 +9113,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -8598,6 +9144,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -8632,6 +9180,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -8661,6 +9211,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.203",
    "previousRung": "2.1.202",
@@ -8690,6 +9242,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -8729,6 +9283,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -8764,6 +9320,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.216",
    "previousRung": "2.1.215",
@@ -8793,6 +9351,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -8822,6 +9382,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -8851,6 +9413,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -8880,6 +9444,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -8909,6 +9475,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -8938,6 +9506,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -8972,6 +9542,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -9006,6 +9578,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -9035,6 +9609,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -9064,6 +9640,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -9093,6 +9671,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -9122,6 +9702,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -9151,6 +9733,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -9188,6 +9772,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -9217,6 +9803,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -9246,6 +9834,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -9275,6 +9865,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -9304,6 +9896,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -9338,6 +9932,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -9367,6 +9963,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -9396,6 +9994,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -9431,6 +10031,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -9462,6 +10064,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -9491,6 +10095,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -9520,6 +10126,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.198",
    "previousRung": "2.1.197",
@@ -9556,6 +10164,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -9591,6 +10201,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -9626,6 +10238,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -9655,6 +10269,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -9684,6 +10300,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -9713,6 +10331,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -9742,6 +10362,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -9771,6 +10393,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.199",
    "previousRung": "2.1.198",
@@ -9800,6 +10424,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -9840,6 +10466,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -9875,6 +10503,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -9906,6 +10536,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -9935,6 +10567,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -9970,6 +10604,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -10005,6 +10641,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -10034,6 +10672,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -10069,6 +10709,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -10098,6 +10740,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -10128,6 +10772,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.152",
    "previousRung": "2.1.150",
@@ -10157,6 +10803,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -10186,6 +10834,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -10215,6 +10865,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -10255,6 +10907,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -10289,6 +10943,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -10318,6 +10974,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -10347,6 +11005,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -10382,6 +11042,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -10411,6 +11073,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -10440,6 +11104,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -10470,6 +11136,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.150",
    "previousRung": "2.1.145",
@@ -10499,6 +11167,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -10528,6 +11198,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -10557,6 +11229,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -10592,6 +11266,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -10626,6 +11302,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -10661,6 +11339,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -10705,6 +11385,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -10734,6 +11416,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -10763,6 +11447,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -10792,6 +11478,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -10827,6 +11515,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -10862,6 +11552,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -10891,6 +11583,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.203",
    "previousRung": "2.1.202",
@@ -10920,6 +11614,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -10949,6 +11645,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -10978,6 +11676,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -11007,6 +11707,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -11042,6 +11744,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -11071,6 +11775,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -11100,6 +11806,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -11129,6 +11837,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -11158,6 +11868,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -11187,6 +11899,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -11216,6 +11930,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -11245,6 +11961,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -11274,6 +11992,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -11303,6 +12023,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -11332,6 +12054,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -11371,6 +12095,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -11400,6 +12126,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -11429,6 +12157,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -11463,6 +12193,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -11492,6 +12224,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -11521,6 +12255,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -11550,6 +12286,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.216",
    "previousRung": "2.1.215",
@@ -11585,6 +12323,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -11619,6 +12359,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -11655,6 +12397,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -11686,6 +12430,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -11726,6 +12472,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -11767,6 +12515,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -11796,6 +12546,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -11831,6 +12583,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -11862,6 +12616,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -11891,6 +12647,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -11920,6 +12678,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -11955,6 +12715,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -11990,6 +12752,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -12019,6 +12783,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -12053,6 +12819,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -12082,6 +12850,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -12111,6 +12881,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -12140,6 +12912,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -12169,6 +12943,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -12204,6 +12980,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.198",
    "previousRung": "2.1.197",
@@ -12234,6 +13012,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -12269,6 +13049,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -12303,6 +13085,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -12332,6 +13116,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -12371,6 +13157,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -12405,6 +13193,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -12439,6 +13229,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -12473,6 +13265,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -12507,6 +13301,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -12541,6 +13337,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -12575,6 +13373,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -12609,6 +13409,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -12655,6 +13457,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -12701,6 +13505,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.196",
    "previousRung": "2.1.195",
@@ -12747,6 +13553,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.202",
    "previousRung": "2.1.201",
@@ -12781,6 +13589,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -12810,6 +13620,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -12839,6 +13651,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -12868,6 +13682,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -12897,6 +13713,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -12931,6 +13749,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -12960,6 +13780,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -12989,6 +13811,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -13018,6 +13842,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -13047,6 +13873,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -13076,6 +13904,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -13105,6 +13935,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -13134,6 +13966,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.199",
    "previousRung": "2.1.198",
@@ -13163,6 +13997,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -13192,6 +14028,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -13221,6 +14059,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.196",
    "previousRung": "2.1.195",
@@ -13255,6 +14095,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -13289,6 +14131,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -13323,6 +14167,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.196",
    "previousRung": "2.1.195",
@@ -13357,6 +14203,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -13386,6 +14234,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -13415,6 +14265,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -13444,6 +14296,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -13473,6 +14327,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -13502,6 +14358,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -13531,6 +14389,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -13560,6 +14420,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -13589,6 +14451,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -13618,6 +14482,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -13647,6 +14513,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -13676,6 +14544,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -13705,6 +14575,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -13736,6 +14608,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -13765,6 +14639,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.152",
    "previousRung": "2.1.150",
@@ -13794,6 +14670,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -13823,6 +14701,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -13852,6 +14732,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -13881,6 +14763,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -13916,6 +14800,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.113",
    "previousRung": "2.1.112",
@@ -13945,6 +14831,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -13991,6 +14879,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -14020,6 +14910,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -14049,6 +14941,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -14088,6 +14982,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -14122,6 +15018,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -14151,6 +15049,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -14180,6 +15080,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -14209,6 +15111,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.216",
    "previousRung": "2.1.215",
@@ -14243,6 +15147,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -14272,6 +15178,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -14306,6 +15214,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -14337,6 +15247,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -14371,6 +15283,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.233",
    "previousRung": "2.1.232",
@@ -14405,6 +15319,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.233",
    "previousRung": "2.1.232",
@@ -14434,6 +15350,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -14465,6 +15383,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -14500,6 +15420,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -14529,6 +15451,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -14558,6 +15482,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.195",
    "previousRung": "2.1.193",
@@ -14592,6 +15518,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -14621,6 +15549,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -14650,6 +15580,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -14679,6 +15611,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -14709,6 +15643,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -14748,6 +15684,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.196",
    "previousRung": "2.1.195",
@@ -14777,6 +15715,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -14811,6 +15751,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -14840,6 +15782,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -14869,6 +15813,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -14898,6 +15844,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -14927,6 +15875,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -14967,6 +15917,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -14996,6 +15948,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -15025,6 +15979,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -15054,6 +16010,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -15085,6 +16043,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -15114,6 +16074,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -15148,6 +16110,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -15183,6 +16147,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -15213,6 +16179,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -15248,6 +16216,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -15283,6 +16253,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -15318,6 +16290,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -15347,6 +16321,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -15376,6 +16352,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -15411,6 +16389,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -15440,6 +16420,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -15469,6 +16451,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -15498,6 +16482,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -15527,6 +16513,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -15556,6 +16544,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -15585,6 +16575,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -15620,6 +16612,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.152",
    "previousRung": "2.1.150",
@@ -15649,6 +16643,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -15678,6 +16674,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -15713,6 +16711,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -15753,6 +16753,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -15782,6 +16784,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -15811,6 +16815,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -15840,6 +16846,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -15874,6 +16882,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -15903,6 +16913,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -15932,6 +16944,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -15967,6 +16981,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.200",
    "previousRung": "2.1.199",
@@ -15996,6 +17012,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -16025,6 +17043,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -16054,6 +17074,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -16094,6 +17116,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.203",
    "previousRung": "2.1.202",
@@ -16123,6 +17147,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -16158,6 +17184,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -16187,6 +17215,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.208",
    "previousRung": "2.1.207",
@@ -16216,6 +17246,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.199",
    "previousRung": "2.1.198",
@@ -16245,6 +17277,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -16280,6 +17314,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.208",
    "previousRung": "2.1.207",
@@ -16309,6 +17345,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -16343,6 +17381,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.228",
    "previousRung": "2.1.227",
@@ -16372,6 +17412,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.225",
    "previousRung": "2.1.224",
@@ -16401,6 +17443,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -16436,6 +17480,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -16465,6 +17511,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -16515,6 +17563,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -16555,6 +17605,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -16584,6 +17636,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -16618,6 +17672,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.193",
    "previousRung": "2.1.191",
@@ -16647,6 +17703,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -16681,6 +17739,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -16710,6 +17770,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -16750,6 +17812,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -16784,6 +17848,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.206",
    "previousRung": "2.1.205",
@@ -16813,6 +17879,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -16842,6 +17910,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.145",
    "previousRung": "2.1.144",
@@ -16881,6 +17951,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -16910,6 +17982,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -16939,6 +18013,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -16968,6 +18044,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -17003,6 +18081,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.196",
    "previousRung": "2.1.195",
@@ -17032,6 +18112,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -17063,6 +18145,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.207",
    "previousRung": "2.1.206",
@@ -17092,6 +18176,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.243",
    "previousRung": "2.1.240",
@@ -17126,6 +18212,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -17155,6 +18243,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -17202,6 +18292,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.233",
    "previousRung": "2.1.232",
@@ -17236,6 +18328,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -17265,6 +18359,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -17300,6 +18396,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -17329,6 +18427,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -17368,6 +18468,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -17397,6 +18499,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -17426,6 +18530,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -17460,6 +18566,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -17489,6 +18597,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -17520,6 +18630,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -17549,6 +18661,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -17578,6 +18692,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -17607,6 +18723,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -17636,6 +18754,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -17667,6 +18787,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -17696,6 +18818,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -17732,6 +18856,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -17761,6 +18887,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.206",
    "previousRung": "2.1.205",
@@ -17790,6 +18918,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -17819,6 +18949,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -17848,6 +18980,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -17877,6 +19011,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -17911,6 +19047,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -17952,6 +19090,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -17981,6 +19121,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -18010,6 +19152,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -18039,6 +19183,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -18068,6 +19214,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -18097,6 +19245,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -18131,6 +19281,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -18160,6 +19312,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -18189,6 +19343,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -18218,6 +19374,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -18247,6 +19405,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -18281,6 +19441,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.240",
    "previousRung": "2.1.239",
@@ -18315,6 +19477,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -18344,6 +19508,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.208",
    "previousRung": "2.1.207",
@@ -18373,6 +19539,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.208",
    "previousRung": "2.1.207",
@@ -18404,6 +19572,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.208",
    "previousRung": "2.1.207",
@@ -18433,6 +19603,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -18462,6 +19634,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -18491,6 +19665,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -18520,6 +19696,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -18549,6 +19727,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -18589,6 +19769,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -18618,6 +19800,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.222",
    "previousRung": "2.1.221",
@@ -18647,6 +19831,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -18676,6 +19862,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.150",
    "previousRung": "2.1.145",
@@ -18705,6 +19893,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -18734,6 +19924,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -18768,6 +19960,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -18803,6 +19997,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -18832,6 +20028,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -18868,6 +20066,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -18902,6 +20102,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -18931,6 +20133,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -18962,6 +20166,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -18991,6 +20197,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -19020,6 +20228,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.216",
    "previousRung": "2.1.215",
@@ -19049,6 +20259,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -19078,6 +20290,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -19107,6 +20321,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -19142,6 +20358,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -19171,6 +20389,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.205",
    "previousRung": "2.1.204",
@@ -19210,6 +20430,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -19244,6 +20466,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -19273,6 +20497,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -19309,6 +20535,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -19339,6 +20567,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -19369,6 +20599,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -19398,6 +20630,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -19433,6 +20667,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -19467,6 +20703,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -19501,6 +20739,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -19530,6 +20770,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -19559,6 +20801,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -19588,6 +20832,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -19617,6 +20863,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -19646,6 +20894,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -19680,6 +20930,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -19739,6 +20991,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -19768,6 +21022,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -19797,6 +21053,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -19826,6 +21084,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -19855,6 +21115,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -19884,6 +21146,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -19913,6 +21177,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.145",
    "previousRung": "2.1.144",
@@ -19942,6 +21208,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -19971,6 +21239,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.176",
    "previousRung": "2.1.168",
@@ -20000,6 +21270,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.113",
    "previousRung": "2.1.112",
@@ -20034,6 +21306,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -20063,6 +21337,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -20094,6 +21370,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -20123,6 +21401,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -20152,6 +21432,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -20187,6 +21469,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -20216,6 +21500,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.198",
    "previousRung": "2.1.197",
@@ -20245,6 +21531,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -20274,6 +21562,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -20303,6 +21593,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -20332,6 +21624,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -20367,6 +21661,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -20397,6 +21693,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -20426,6 +21724,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -20456,6 +21756,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -20490,6 +21792,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -20525,6 +21829,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -20554,6 +21860,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -20589,6 +21897,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -20618,6 +21928,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -20647,6 +21959,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -20676,6 +21990,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -20705,6 +22021,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -20734,6 +22052,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -20768,6 +22088,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -20797,6 +22119,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -20832,6 +22156,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -20867,6 +22193,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -20896,6 +22224,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -20936,6 +22266,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -20965,6 +22297,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -20994,6 +22328,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -21028,6 +22364,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -21057,6 +22395,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.142",
    "previousRung": "2.1.139",
@@ -21086,6 +22426,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -21115,6 +22457,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -21144,6 +22488,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -21173,6 +22519,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -21207,6 +22555,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -21242,6 +22592,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -21277,6 +22629,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -21306,6 +22660,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -21335,6 +22691,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.203",
    "previousRung": "2.1.202",
@@ -21370,6 +22728,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.198",
    "previousRung": "2.1.197",
@@ -21399,6 +22759,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -21428,6 +22790,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.205",
    "previousRung": "2.1.204",
@@ -21458,6 +22822,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -21507,6 +22873,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -21536,6 +22904,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -21565,6 +22935,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -21594,6 +22966,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.285",
    "previousRung": "2.1.284",
@@ -21623,6 +22997,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -21652,6 +23028,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -21687,6 +23065,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -21721,6 +23101,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.251",
    "previousRung": "2.1.250",
@@ -21750,6 +23132,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -21779,6 +23163,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -21808,6 +23194,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -21837,6 +23225,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -21871,6 +23261,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -21912,6 +23304,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.215",
    "previousRung": "2.1.214",
@@ -21953,6 +23347,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.221",
    "previousRung": "2.1.220",
@@ -21987,6 +23383,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -22016,6 +23414,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22045,6 +23445,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -22074,6 +23476,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -22103,6 +23507,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -22132,6 +23538,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22161,6 +23569,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -22203,6 +23613,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.236",
    "previousRung": "2.1.234",
@@ -22232,6 +23644,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -22261,6 +23675,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22296,6 +23712,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.233",
    "previousRung": "2.1.232",
@@ -22325,6 +23743,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.0.30",
    "previousRung": "2.0.0",
@@ -22354,6 +23774,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -22383,6 +23805,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22423,6 +23847,8 @@
     "note": "must be set for the gate to matter; the gate can still turn the feature off"
    }
   ],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -22453,6 +23879,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22487,6 +23915,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22516,6 +23946,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -22545,6 +23977,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -22580,6 +24014,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.219",
    "previousRung": "2.1.216",
@@ -22609,6 +24045,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -22638,6 +24076,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -22667,6 +24107,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.117",
    "previousRung": "2.1.116",
@@ -22701,6 +24143,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -22730,6 +24174,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22759,6 +24205,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -22788,6 +24236,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -22817,6 +24267,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -22846,6 +24298,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -22875,6 +24329,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.100",
    "previousRung": "2.1.23",
@@ -22904,6 +24360,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -22933,6 +24391,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.227",
    "previousRung": "2.1.226",
@@ -22962,6 +24422,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.205",
    "previousRung": "2.1.204",
@@ -22996,6 +24458,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.124",
    "previousRung": "2.1.117",
@@ -23025,6 +24489,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -23060,6 +24526,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -23089,6 +24557,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23120,6 +24590,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.191",
    "previousRung": "2.1.176",
@@ -23154,6 +24626,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23183,6 +24657,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23212,6 +24688,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -23241,6 +24719,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -23281,6 +24761,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.143",
    "previousRung": "2.1.142",
@@ -23310,6 +24792,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23339,6 +24823,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -23373,6 +24859,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -23408,6 +24896,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.139",
    "previousRung": "2.1.124",
@@ -23442,6 +24932,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -23471,6 +24963,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23506,6 +25000,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -23535,6 +25031,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -23569,6 +25067,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23598,6 +25098,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.112",
    "previousRung": "2.1.100",
@@ -23629,6 +25131,8 @@
   "cacheReach": "none",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "1.0.60",
    "previousRung": null,
@@ -23658,6 +25162,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -23692,6 +25198,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23721,6 +25229,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -23750,6 +25260,8 @@
   "cacheReach": "none",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -23779,6 +25291,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -23813,6 +25327,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -23842,6 +25358,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -23871,6 +25389,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -23900,6 +25420,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -23929,6 +25451,8 @@
   "cacheReach": "none",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.259",
    "previousRung": "2.1.258",
@@ -23958,6 +25482,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -23987,6 +25513,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -24016,6 +25544,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24045,6 +25575,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24089,6 +25621,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.258",
    "previousRung": "2.1.252",
@@ -24123,6 +25657,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -24152,6 +25688,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -24181,6 +25719,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -24210,6 +25750,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -24241,6 +25783,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24275,6 +25819,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -24304,6 +25850,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24333,6 +25881,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24362,6 +25912,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24391,6 +25943,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24420,6 +25974,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -24449,6 +26005,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.238",
    "previousRung": "2.1.237",
@@ -24483,6 +26041,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -24512,6 +26072,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.286",
    "previousRung": "2.1.285",
@@ -24541,6 +26103,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24570,6 +26134,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -24599,6 +26165,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -24628,6 +26196,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -24657,6 +26227,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -24701,6 +26273,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.246",
    "previousRung": "2.1.245",
@@ -24730,6 +26304,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -24765,6 +26341,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.168",
    "previousRung": "2.1.160",
@@ -24795,6 +26373,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -24825,6 +26405,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -24855,6 +26437,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.248",
    "previousRung": "2.1.247",
@@ -24885,6 +26469,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.23",
    "previousRung": "2.0.30",
@@ -24914,6 +26500,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -24943,6 +26531,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.214",
    "previousRung": "2.1.208",
@@ -24978,6 +26568,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -25013,6 +26605,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -25042,6 +26636,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -25078,6 +26674,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.247",
    "previousRung": "2.1.246",
@@ -25119,6 +26717,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.239",
    "previousRung": "2.1.238",
@@ -25158,6 +26758,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -25208,6 +26810,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -25237,6 +26841,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -25266,6 +26872,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -25297,6 +26905,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.232",
    "previousRung": "2.1.228",
@@ -25326,6 +26936,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.234",
    "previousRung": "2.1.233",
@@ -25355,6 +26967,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -25384,6 +26998,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -25413,6 +27029,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.268",
    "previousRung": "2.1.261",
@@ -25447,6 +27065,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -25487,6 +27107,8 @@
    }
   ],
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.150",
    "previousRung": "2.1.145",
@@ -25526,6 +27148,8 @@
   "cacheReach": "none",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.224",
    "previousRung": "2.1.222",
@@ -25560,6 +27184,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.160",
    "previousRung": "2.1.152",
@@ -25589,6 +27215,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.287",
    "previousRung": "2.1.286",
@@ -25618,6 +27246,8 @@
   "cacheReach": "partial",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.284",
    "previousRung": "2.1.278",
@@ -25652,6 +27282,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
@@ -25681,6 +27313,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.261",
    "previousRung": "2.1.259",
@@ -25710,6 +27344,8 @@
   "cacheReach": "full",
   "override": null,
   "prerequisites": [],
+  "effects": [],
+  "values": null,
   "floor": {
    "build": "2.1.278",
    "previousRung": "2.1.268",
